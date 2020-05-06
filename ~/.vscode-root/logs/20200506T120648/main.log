@@ -1,0 +1,10 @@
+[2020-05-06 12:06:48.785] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/youssef/Downloads/webrtc/~/.vscode-root/User'
+[2020-05-06 12:06:50.088] [main] [info] update#setState idle
+[2020-05-06 12:07:20.092] [main] [info] update#setState checking for updates
+[2020-05-06 12:07:20.320] [main] [info] update#setState idle
+[2020-05-06 13:07:20.188] [main] [info] update#setState checking for updates
+[2020-05-06 13:07:21.814] [main] [info] update#setState idle
+[2020-05-06 14:07:20.667] [main] [info] update#setState checking for updates
+[2020-05-06 14:07:21.317] [main] [info] update#setState idle
+[2020-05-06 15:07:20.990] [main] [info] update#setState checking for updates
+[2020-05-06 15:07:25.583] [main] [info] update#setState idle

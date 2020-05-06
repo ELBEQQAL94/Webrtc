@@ -1,0 +1,27 @@
+[2020-05-06 12:06:55.582] [sharedprocess] [info] main {"machineId":"b9c2ad4b4fcb2434f038944aa8238682f0526da5340ff71ed32da2e19871de0d","windowId":2}
+[2020-05-06 12:06:56.063] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/youssef/Downloads/webrtc/~/.vscode-root/User/snippets'
+[2020-05-06 12:07:14.070] [sharedprocess] [info] Installing extension: felixfbecker.php-pack
+[2020-05-06 12:07:15.337] [sharedprocess] [info] Downloaded extension: felixfbecker.php-pack /tmp/718ea278-7cee-49b0-b6ea-5aafdcd182d0
+[2020-05-06 12:07:15.605] [sharedprocess] [info] Extracted extension to /home/youssef/.vscode/extensions/.felixfbecker.php-pack-1.0.2: felixfbecker.php-pack
+[2020-05-06 12:07:15.606] [sharedprocess] [info] Renamed to /home/youssef/.vscode/extensions/felixfbecker.php-pack-1.0.2
+[2020-05-06 12:07:15.623] [sharedprocess] [info] Installation completed. felixfbecker.php-pack
+[2020-05-06 12:07:16.435] [sharedprocess] [info] Installing extension: felixfbecker.php-intellisense
+[2020-05-06 12:07:16.447] [sharedprocess] [info] Installing extension: felixfbecker.php-debug
+[2020-05-06 12:07:19.451] [sharedprocess] [info] Downloaded extension: felixfbecker.php-debug /tmp/4c6f4624-1e25-4ffe-86de-bf951ec08aec
+[2020-05-06 12:07:20.906] [sharedprocess] [info] Downloaded extension: felixfbecker.php-intellisense /tmp/9c08a609-19f4-47ff-be50-2420792e8e76
+[2020-05-06 12:07:33.565] [sharedprocess] [info] Extracted extension to /home/youssef/.vscode/extensions/.felixfbecker.php-debug-1.13.0: felixfbecker.php-debug
+[2020-05-06 12:07:33.566] [sharedprocess] [info] Renamed to /home/youssef/.vscode/extensions/felixfbecker.php-debug-1.13.0
+[2020-05-06 12:07:33.572] [sharedprocess] [info] Installation completed. felixfbecker.php-debug
+[2020-05-06 12:07:33.653] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
+[2020-05-06 12:07:35.704] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-06 12:07:36.095] [sharedprocess] [info] Installing extension: ms-mssql.mssql
+[2020-05-06 12:07:42.321] [sharedprocess] [info] Downloaded extension: ms-mssql.mssql /tmp/0b112570-7f23-425e-b95a-bfb5813b5833
+[2020-05-06 12:07:49.746] [sharedprocess] [info] Extracted extension to /home/youssef/.vscode/extensions/.felixfbecker.php-intellisense-2.3.14: felixfbecker.php-intellisense
+[2020-05-06 12:07:49.750] [sharedprocess] [info] Renamed to /home/youssef/.vscode/extensions/felixfbecker.php-intellisense-2.3.14
+[2020-05-06 12:07:49.753] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense
+[2020-05-06 12:07:50.123] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense
+[2020-05-06 12:07:50.125] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-pack
+[2020-05-06 12:08:34.166] [sharedprocess] [info] Extracted extension to /home/youssef/.vscode/extensions/.ms-mssql.mssql-1.9.0: ms-mssql.mssql
+[2020-05-06 12:08:34.167] [sharedprocess] [info] Renamed to /home/youssef/.vscode/extensions/ms-mssql.mssql-1.9.0
+[2020-05-06 12:08:34.181] [sharedprocess] [info] Installation completed. ms-mssql.mssql
+[2020-05-06 12:08:34.966] [sharedprocess] [info] Extensions installed successfully: ms-mssql.mssql
