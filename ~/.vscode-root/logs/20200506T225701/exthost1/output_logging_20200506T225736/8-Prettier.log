@@ -1,0 +1,64 @@
+["INFO" - 10:57:36 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:57:36 PM] Extension Version: 4.5.0.
+["INFO" - 10:57:36 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 10:57:37 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 11:01:12 PM] Formatting /home/youssef/Downloads/webrtc/README.md
+["INFO" - 11:01:12 PM] Using ignore file (if present) at /home/youssef/Downloads/webrtc/.prettierignore
+["INFO" - 11:01:12 PM] Using bundled version of prettier.
+["INFO" - 11:01:12 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:01:12 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:01:12 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/youssef/Downloads/webrtc/README.md",
+  "parser": "markdown"
+}
+["INFO" - 11:01:12 PM] Formatting completed in 316.772718ms.

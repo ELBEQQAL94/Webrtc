@@ -1,0 +1,8 @@
+[2020-05-06 22:57:08.681] [sharedprocess] [info] main {"machineId":"b9c2ad4b4fcb2434f038944aa8238682f0526da5340ff71ed32da2e19871de0d","windowId":2}
+[2020-05-06 22:57:21.277] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-05-06 22:57:48.825] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-06 23:00:04.614] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/9d415ec4-bd09-4de6-8c17-e75a85637140
+[2020-05-06 23:00:08.316] [sharedprocess] [info] Extracted extension to /home/youssef/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.7: visualstudioexptteam.vscodeintellicode
+[2020-05-06 23:00:08.317] [sharedprocess] [info] Renamed to /home/youssef/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.7
+[2020-05-06 23:00:08.321] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-05-06 23:00:08.458] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Peer Connection</title>
+  </head>
+  <body>
+    
+    <table border="1" width="100%">
+      <tr>
+        <th>Local video</th>
+        <th>'Remote' video</th>
+      </tr>
+
+      <tr>
+        <td>
+          <video id="localVideo" autoplay></video>
+        </td>
+        <td>
+          <video id="remoteVideo" autoplay></video>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <div>
+            <button id="startButton">Start</button>
+            <button id="callButton">Call</button>
+            <button id="hangupButton">Hang Up</button>
+          </div>
+        </td>
+        <td></td>
+      </tr>
+    </table>
+    <script src="main.js"></script>
+  </body>
+</html>
